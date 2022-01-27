@@ -1,0 +1,25 @@
+{
+  "name": "js-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "dev": "clear"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "description": "npm init \r npm install express --save\r npm install\r npm start",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariba-memon/heroku-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ariba-memon/heroku-app/issues"
+  },
+  "homepage": "https://github.com/Ariba-memon/heroku-app#readme"
+}
